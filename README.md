@@ -1,5 +1,10 @@
 # Getting_and_Cleanning_data_assignment
-This is the assignment of the fourth week at Getting and Cleanning data. The R script , run_analysis.R does the following :
+This is the assignment of the fourth week at Getting and Cleanning data.
+
+I first downloaded the data form: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+extracted the data and then oped them in R. I uses the R package "dplyr" 
+
+The R script , run_analysis.R does the following :
 
 1.Merges the training and the test sets to create one data set.
 
